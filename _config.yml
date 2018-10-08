@@ -9,16 +9,10 @@ description: "Ben Bronselaer ocean climate"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Southern Ocean Modelling Intercomparison Project
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: SOMOIP 
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
