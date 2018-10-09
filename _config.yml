@@ -9,9 +9,9 @@ description: "Ben Bronselaer ocean climate"
 
 # Team names, titles and social links
 people:
-- name: Southern Ocean Modelling Intercomparison Project
+- name:  <a href="https://southernocean.arizona.edu/node/42">The Southern Ocean Model Intercomparison Project</a> 
   pic: 1
-  position: SOMIP 
+  position: The Southern Ocean Model Intercomparison Project (SOMIP) is an atmosphere-ocean general circulation model (and earth system model) intercomparison project, and is a subset of  <a href="http://www.met.reading.ac.uk/~jonathan/FAFMIP/">FAFMIP</a> . SOMIP is primarily focused on the  <a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">CMIP6</a>  scientific question “How does the Earth System respond to forcing?” with the aim of reducing uncertainties in climate projections of ocean heat and carbon uptake, by defining the role of the Southern Ocean in the climate.
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
