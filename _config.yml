@@ -20,6 +20,26 @@ social:
     url: http://twitter.com/BenBronselaer
   - title: instagram
     url: https://www.instagram.com/benbronselaer/
+    
+    
+# Highlighted publications
+pubs:
+  - title: Agreement of CMIP5 Simulated and Observed Ocean Anthropogenic CO2 Uptake
+    authors: B Bronselaer, M Winton, J Russell, CL Sabine, S Khatiwala
+    journal: Geophysical Research Letters (2017)
+    doi: https://doi.org/10.1002/2017GL074435
+  - title: Southern Ocean carbon-wind stress feedback
+    authors: B Bronselaer, L Zanna, DR Munday, J Lowe
+    journal: Climate Dynamics (2017)
+    doi: https://doi.org/10.1007/s00382-017-4041-y
+  - title: The influence of Southern Ocean winds on the North Atlantic carbon sink
+    authors: B Bronselaer, L Zanna, DR Munday, J Lowe
+    journal: Global Biogeochemical Cycles (2016)
+    doi: https://doi.org/10.1002/2015GB005364
+  - title: Assessing the abilities of CMIP5 models to represent the seasonal cycle of surface ocean pCO2
+    authors: DJ Pilcher, SR Brody, L Johnson, B Bronselaer
+    journal: Journal of Geophysical Research: Oceans (2015)
+    doi: https://doi.org/10.1002/2015JC010759
 
 # Postal address (add as many lines as necessary)
 address:
