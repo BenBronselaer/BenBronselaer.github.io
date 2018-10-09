@@ -641,6 +641,8 @@ section h3.section-subheading {
     text-align: center;
 }
 
+
+
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
@@ -655,6 +657,29 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 25px;
 }
+
+.pub_article {
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.pub_article img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.pub_article h4 {
+    margin-top: 15px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.pub_article p {
+    margin-top: 0px;
+    text-align: left;
+}
+
+
 
 aside.clients img {
     margin: 50px auto;
