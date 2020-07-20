@@ -29,12 +29,12 @@ pubs:
   - title: Something coming soon!
     authors: B Bronselaer, L Zanna
     journal: (2020)
-    doi: https://doi.org/10.1038/s41561-019-0502-8
+    doi:  
     pic: Nat
   - title: Importance of wind and meltwater for observed chemical and physical changes in the Southern Ocean
     authors: B Bronselaer, J L Russell, M Winton, N L Williams, R M Key, J P Dunne, R A Feely, K S Johnson, J L Sarmiento 
     journal: Nature Geoscience (2020)
-    doi: https://doi.org/10.1038/s41586-018-0712-z
+    doi: https://doi.org/10.1038/s41561-019-0502-8
     pic: NatGeo
   - title: Change in future climate due to Antarctic meltwater
     authors: B Bronselaer, M Winton, S M Griffies, W J Hurlin, K B Rodgers, O V Sergienko, R J Stouffer, J L Russell
