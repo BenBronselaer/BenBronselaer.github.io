@@ -11,8 +11,7 @@ description: "Ben Bronselaer ocean climate"
 people:
 - name:  CMIP6 analysis
   pic: 1
-  position: Uploaded a jupyter notebook to analyze change in extreme events in a climate model ensemble, where the data is stored in the google cloud
-  doi: https://github.com/BenBronselaer/CMIP6
+  position: Uploaded a jupyter notebook to analyze change in extreme events in a climate model ensemble, where the data is stored in the google cloud: https://github.com/BenBronselaer/CMIP6
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
