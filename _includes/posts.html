@@ -7,7 +7,7 @@
                 </div>
             </div>
             
-            {% for member in site.pubs %}
+            {% for member in site.posts %}
                 <div class="row">
                     <div class="col-sm-3">
                         <div class="pub_article">
@@ -17,18 +17,14 @@
                     <div class="col-sm-8">
                         <div class="pub_article">
                             <h4> </h4>
-                            <h4><a href="{{ member.doi }}">{{ member.title }}</a></h4>
-                            <p class="text-muted">{{ member.authors }}</p>
-                            <p class="text-muted">{{ member.journal }}</p>
+                            <h4><a href="{{ member.doi }}">{{ member.name }}</a></h4>
+                            <p class="text-muted">{{ member.blurb }}</p>
+ 
                         </div>
                     </div>
                 </div>
             {% endfor %}
             
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">And a lot more good things to come!</p>
-                </div>
             </div>
         </div>
     </section>
