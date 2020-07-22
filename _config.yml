@@ -9,9 +9,9 @@ description: "Ben Bronselaer ocean climate"
 
 # Team names, titles and social links
 people:
-- name:  The Southern Ocean Model Intercomparison Project
-  pic: 1
-  position: The Southern Ocean Model Intercomparison Project (SOMIP) is an atmosphere-ocean general circulation model (and earth system model) intercomparison project, and is a subset of  <a href="http://www.met.reading.ac.uk/~jonathan/FAFMIP/">FAFMIP</a> . SOMIP is primarily focused on the  <a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">CMIP6</a>  scientific question “How does the Earth System respond to forcing?” with the aim of reducing uncertainties in climate projections of ocean heat and carbon uptake, by defining the role of the Southern Ocean in the climate. Learn more about SOMIP <a href="https://southernocean.arizona.edu/node/42">here</a>.
+- name:   
+  pic: 
+  position: Coming soon
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -29,12 +29,12 @@ pubs:
   - title: Something coming soon!
     authors: B Bronselaer, L Zanna
     journal: (2020)
-    doi: https://doi.org/10.1038/s41561-019-0502-8
+    doi:  
     pic: Nat
   - title: Importance of wind and meltwater for observed chemical and physical changes in the Southern Ocean
     authors: B Bronselaer, J L Russell, M Winton, N L Williams, R M Key, J P Dunne, R A Feely, K S Johnson, J L Sarmiento 
     journal: Nature Geoscience (2020)
-    doi: https://doi.org/10.1038/s41586-018-0712-z
+    doi: https://doi.org/10.1038/s41561-019-0502-8
     pic: NatGeo
   - title: Change in future climate due to Antarctic meltwater
     authors: B Bronselaer, M Winton, S M Griffies, W J Hurlin, K B Rodgers, O V Sergienko, R J Stouffer, J L Russell
