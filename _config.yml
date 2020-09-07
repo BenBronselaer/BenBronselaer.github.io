@@ -27,10 +27,10 @@ social:
     
 # Highlighted publications
 pubs:
-  - title: Something coming soon!
+  - title: Heat and carbon coupling reveals ocean warming due to circulation changes
     authors: B Bronselaer, L Zanna
-    journal: (2020)
-    doi:  
+    journal: Nature (2020)
+    doi:  https://doi.org/10.1038/s41586-020-2573-5
     pic: Nat
   - title: Importance of wind and meltwater for observed chemical and physical changes in the Southern Ocean
     authors: B Bronselaer, J L Russell, M Winton, N L Williams, R M Key, J P Dunne, R A Feely, K S Johnson, J L Sarmiento 
